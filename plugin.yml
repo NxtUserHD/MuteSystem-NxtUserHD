@@ -1,0 +1,12 @@
+name: MuteSystem
+main: MuteSystem\Main\MuteSystem
+version: 0.2
+api: 4.0.0
+author: NxtUserHD
+commands:
+  mute:
+    description: Mute Command
+    permission: "ms.mute"
+  unmute:
+    description: Unmute Command
+    permission: "ms.unmute"
